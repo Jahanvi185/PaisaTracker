@@ -150,7 +150,8 @@ User → Mobile App → Backend Server → Database
 
 ---
 
-
+## 🌐 Live Demo
+👉 https://paisatracker-pharmacy.netlify.app
 
 
 
